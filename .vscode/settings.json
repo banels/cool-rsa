@@ -1,7 +1,14 @@
 {
     "files.associations": {
         "utility": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "core.h": "c",
+        "export.h": "c",
+        "stddef.h": "c",
+        "stdint.h": "c",
+        "limits.h": "c",
+        "crypto_stream_chacha20.h": "c",
+        "iosfwd": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
