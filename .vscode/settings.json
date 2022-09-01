@@ -8,7 +8,9 @@
         "stdint.h": "c",
         "limits.h": "c",
         "crypto_stream_chacha20.h": "c",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "random": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
